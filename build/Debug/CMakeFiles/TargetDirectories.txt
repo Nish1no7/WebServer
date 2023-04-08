@@ -1,0 +1,4 @@
+/home/user/webserver/build/Debug/WebServer/tests/CMakeFiles/HTTPClient.dir
+/home/user/webserver/build/Debug/WebServer/base/tests/CMakeFiles/LoggingTest.dir
+/home/user/webserver/build/Debug/WebServer/CMakeFiles/WebServer.dir
+/home/user/webserver/build/Debug/WebServer/base/CMakeFiles/libserver_base.dir
